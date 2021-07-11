@@ -10,3 +10,12 @@ defaults:
     values:
       layout: "default"
 permalink: /:year/:month/:day/:title:output_ext
+
+author:
+  name: Sören Beye
+social:
+  name: Hypfer
+  links:
+    - https://github.com/hypfer
+    - https://twitter.com/hypfer
+locale: de_DE
